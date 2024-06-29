@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movies-website/static/css/main.306bdcbe.css",
-    "main.js": "/movies-website/static/js/main.fc89677f.js",
+    "main.js": "/movies-website/static/js/main.3344d52b.js",
     "static/js/787.0c3f432a.chunk.js": "/movies-website/static/js/787.0c3f432a.chunk.js",
     "static/media/fa-solid-900.ttf": "/movies-website/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/movies-website/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
@@ -20,11 +20,11 @@
     "static/media/fa-v4compatibility.woff2": "/movies-website/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/movies-website/index.html",
     "main.306bdcbe.css.map": "/movies-website/static/css/main.306bdcbe.css.map",
-    "main.fc89677f.js.map": "/movies-website/static/js/main.fc89677f.js.map",
+    "main.3344d52b.js.map": "/movies-website/static/js/main.3344d52b.js.map",
     "787.0c3f432a.chunk.js.map": "/movies-website/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.306bdcbe.css",
-    "static/js/main.fc89677f.js"
+    "static/js/main.3344d52b.js"
   ]
 }
