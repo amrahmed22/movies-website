@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/movies-website/static/css/main.0cb6dad3.css",
-    "main.js": "/movies-website/static/js/main.bb9d5ca5.js",
+    "main.css": "/movies-website/static/css/main.d99eba5f.css",
+    "main.js": "/movies-website/static/js/main.3fafff66.js",
     "static/js/787.0c3f432a.chunk.js": "/movies-website/static/js/787.0c3f432a.chunk.js",
     "static/media/fa-solid-900.ttf": "/movies-website/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/fa-brands-400.ttf": "/movies-website/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
     "static/media/fa-solid-900.woff2": "/movies-website/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/fa-brands-400.woff2": "/movies-website/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
     "static/media/fa-regular-400.ttf": "/movies-website/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/404 Error-amico.svg": "/movies-website/static/media/404 Error-amico.cc5af33a049b0f783a5dd829517ef20a.svg",
     "static/media/fa-regular-400.woff2": "/movies-website/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/icon.png": "/movies-website/static/media/icon.57e8440b04b8b231e363.png",
     "static/media/fa-v4compatibility.ttf": "/movies-website/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
@@ -18,12 +19,12 @@
     "static/media/slick.woff": "/movies-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/movies-website/index.html",
     "static/media/profilee.svg": "/movies-website/static/media/profilee.f9db13c5f6963815666d104105243935.svg",
-    "main.0cb6dad3.css.map": "/movies-website/static/css/main.0cb6dad3.css.map",
-    "main.bb9d5ca5.js.map": "/movies-website/static/js/main.bb9d5ca5.js.map",
+    "main.d99eba5f.css.map": "/movies-website/static/css/main.d99eba5f.css.map",
+    "main.3fafff66.js.map": "/movies-website/static/js/main.3fafff66.js.map",
     "787.0c3f432a.chunk.js.map": "/movies-website/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cb6dad3.css",
-    "static/js/main.bb9d5ca5.js"
+    "static/css/main.d99eba5f.css",
+    "static/js/main.3fafff66.js"
   ]
 }
