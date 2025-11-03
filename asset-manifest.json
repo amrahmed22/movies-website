@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movies-website/static/css/main.c9f619d8.css",
-    "main.js": "/movies-website/static/js/main.eaaa8a54.js",
+    "main.js": "/movies-website/static/js/main.3c331370.js",
     "static/js/787.0c3f432a.chunk.js": "/movies-website/static/js/787.0c3f432a.chunk.js",
     "static/media/seamless-pattern-with-cinema-elements.png": "/movies-website/static/media/seamless-pattern-with-cinema-elements.e29b30d63ba5f4937504.png",
     "static/media/fa-solid-900.ttf": "/movies-website/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
@@ -21,11 +21,11 @@
     "index.html": "/movies-website/index.html",
     "static/media/profilee.svg": "/movies-website/static/media/profilee.f9db13c5f6963815666d104105243935.svg",
     "main.c9f619d8.css.map": "/movies-website/static/css/main.c9f619d8.css.map",
-    "main.eaaa8a54.js.map": "/movies-website/static/js/main.eaaa8a54.js.map",
+    "main.3c331370.js.map": "/movies-website/static/js/main.3c331370.js.map",
     "787.0c3f432a.chunk.js.map": "/movies-website/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9f619d8.css",
-    "static/js/main.eaaa8a54.js"
+    "static/js/main.3c331370.js"
   ]
 }
